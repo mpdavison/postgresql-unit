@@ -201,6 +201,13 @@ steradian sr               #   of the sphere equal to that of a square with
                            #   sphere
 
 #
+# Nephelometric Turbidity Units
+# A dimensionless unit measuring turbidity
+#
+
+NTU       !dimensionless
+
+#
 # A primitive non-SI unit
 #
 
